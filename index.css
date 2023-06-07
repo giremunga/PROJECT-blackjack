@@ -1,4 +1,5 @@
 body{
+   display: flex;
    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
    background-image: url("blackj.jpg");
     background-size: cover;
@@ -13,7 +14,7 @@ h1{
 #message-el {
    font-style:oblique;
    font-weight: bold;
-   color:aquamarine
+   color:aquamarine;
 }
 button {
    text: color #054221;
